@@ -1,2 +1,2 @@
 # ML_LabWork
-Assignments for Machine Learning.
+Machine Learning Asignments and Lab work.
